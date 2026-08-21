@@ -1,1 +1,65 @@
-IyBaQ29kZSBIYW5kb2ZmOiBGZWRlcmF0aW9uIENvbW11bmljYXRpb24gTGl0ZQoK54mI5pys77yaYHYxLjBgCueUqOmAlO+8muWcqOeLrOeri+aymeebkuS4ree7p+e7reiwg+ivleS4gOS4qui9u+mHj+OAgei3qOW5s+WPsOeahCBBZ2VudCDpgJrorq8gU2tpbGzjgIIKCiMjIOWMheWGheaWh+S7tgoKLSBgRkVERVJBVElPTl9DT01NVU5JQ0FUSU9OX0xJVEVfU0tJTExfVjEubWRgCiAgLSDmraPlvI8gU2tpbGwg5Y2V5paH5Lu2CiAgLSDljp/nlJ/ku7vliqHpgJrorq/kvJjlhYgKICAtIOWFrOWFsSBNYXJrZG93biDkvZzkuLrot6jlubPlj7DlhZzlupUKICAtIOacgOWwj+eKtuaAgea2iOaBr+OAgemakOengei+ueeVjOWSjOWBnOatoumHjeWkjeaVsumXqOinhOWImQotIGBmZWRlcmF0aW9uLWNvbW11bmljYXRpb24tbGl0ZS1sb2dvLmh0bWxgCiAgLSBDYW52YXMgTG9nbyDmoLfkvosKICAtIOWPr+WcqOa1j+iniOWZqOS4remihOiniAogIC0g6aG16Z2i5YaF55qEIGBEb3dubG9hZCBQTkdgIOaMiemSruWPr+WvvOWHuiBMb2dvCi0gYGZlZGVyYXRpb24tY29tbXVuaWNhdGlvbi1saXRlLXNhbXBsZS5odG1sYAogIC0gR2l0SHViIOmjjuagvOS7i+e7jemhteagt+S+iwogIC0g5bey6YeH55So5Yqe5YWs54Gw6IOM5pmv44CB54Gw55m96Z2i5p2/44CB5aKo6buR6L6555WM44CB57u/6Imy5Li76Lev5b6E5ZKM6JOd6Imy5aSH55So6Lev5b6ECgojIyDorr7orqHpgLvovpEKCi0g57u/6Imy6Lev5b6E77ya5bmz5Y+w5Y6f55Sf55u06L+e77yM5piv6buY6K6k6YCa5L+h5pa55byP44CCCi0g6JOd6Imy6Lev5b6E77ya5YWx5LqrIE1hcmtkb3duIOWFrOWFseadv++8jOaYr+aXoOazleebtOi/nuaXtueahOS6uuW3peWFnOW6leOAggotIOS4reWkruiKgueCue+8muWNj+iwg+axh+WQiOeCue+8jOS4jeS7o+ihqOaJgOaciSBBZ2VudCDmsLjkuYXlnKjnur/jgIIKLSDlpJbmoYbvvJrmnYPpmZDjgIHku7vliqHojIPlm7TlkozpmpDnp4HovrnnlYzjgIIKCiMjIFpDb2RlIOS9v+eUqOinhOWImQoKMS4g5YWI6K+75Y+WIGBGRURFUkFUSU9OX0NPTU1VTklDQVRJT05fTElURV9TS0lMTF9WMS5tZGDjgIIKMi4g5Y+q5oqK5a6D5L2c5Li66YCa5L+h5Y2P6K6u5L2/55So77yM5LiN6Ieq5Yqo5Yib5bu65bi46am76L+b56iL44CB5b+D6Lez5oiW6L2u6K+i44CCCjMuIOacieWOn+eUn+WvueivnemAmuS/oeaXtu+8jOS8mOWFiOS9v+eUqOWOn+eUn+mAmuS/oe+8jOS4jemHjeWkjeWGmeWFrOWFseadv+OAggo0LiDmsqHmnInljp/nlJ/pgJrkv6Hml7bvvIzkvb/nlKjnlKjmiLfmjIflrprnmoTlhazlhbEgTWFya2Rvd24g5paH5Lu25Lq65bel5Lqk5o6l44CCCjUuIEFDSyDlj6rooajnpLrmlLbliLDvvIzkuI3ooajnpLrlrozmiJDvvJtSRVNVTFQg5b+F6aG76ZmE6K+B5o2u5ZKM6aOO6Zmp44CCCjYuIOWvueacquWTjeW6lOS8muivneWPquWBmuS4gOasoei+ueeVjOaPkOmGku+8jOeEtuWQjuaKpeWRiuaXoOWTjeW6lO+8jOS4jeaMgee7reaVsumXqOOAggo3LiDkuI3kv67mlLnkuJrliqHku6PnoIHvvIzkuI3kuIrkvKDlpJbpg6jlubPlj7DvvIzkuI3miafooYzotKblj7fmk43kvZzvvIzpmaTpnZ7nlKjmiLflj6booYzmjojmnYPjgIIKCiMjIOWuieWFqOi+ueeVjAoK5pys5YyF5LiN5YyF5ZCr5Lmf5LiN6ZyA6KaB77yaCgotIEdpdEh1YiDnlKjmiLflkI3jgIHlr4bnoIHjgIHnmbvlvZUgQ29va2llIOaIlua1j+iniOWZqOmFjee9ru+8mwotIOS7u+S9lSBBUEkgS2V544CBU2VjcmV044CBQmVhcmVyIFRva2VuIOaIluWujOaVtOaOiOadg+WAvO+8mwotIOaKlumfs+OAgeWwj+e6ouS5puaIluWFtuS7lue9keermeeahOeZu+W9leeKtuaAge+8mwotIOWujOaVtOa1j+iniOiusOW9leOAgeengeS6uuaUtuiXj+WGheWuueaIluWujOaVtOivt+axgiBwYXlsb2Fk77ybCi0g5pys5py65Yet5o2u5ZKM57O757uf6K6+572u44CCCgrlpoLmnpwgWkNvZGUg6KaB5rGC5LiK6L+w5YaF5a655omN6IO95bel5L2c77yM5bqU5YGc5q2i5bm25ZCR55So5oi35oql5ZGK77yM5LiN6KaB57Si5Y+W5oiW5aSN5Yi244CCCgojIyDosIPor5Xnm67moIcKCi0g5qOA5p+lIFNraWxsIOaYr+WQpuiDveWcqOaymeebkuS4reiiq+ato+ehruivhuWIq+WSjOinpuWPkeOAggotIOajgOafpSBNYXJrZG93biDlhazlhbHmnb/mtojmga/mmK/lkKbog73ooqvmraPnoa7ov73liqDlkozor7vlj5bjgIIKLSDmo4Dmn6UgTG9nbyDpobXpnaIgQ2FudmFzIOaYr+WQpuato+W4uOaYvuekuuW5tuiDveWvvOWHuiBQTkfjgIIKLSDmo4Dmn6Xku4vnu43pobXlnKjmoYzpnaLlkoznp7vliqjlrr3luqbkuIvmmK/lkKbkv53mjIHmuIXmmbDvvIzkuI3lh7rnjrDmloflrZfmuqLlh7rjgIIKCiMjIOmihOacn+WbnuaKpeagvOW8jwoKYGBgdGV4dApzdGF0dXM6IEFDSyB8IFFVRVNUSU9OIHwgQkxPQ0tFRCB8IFJFU1VMVApmaWxlc19jaGVja2VkOiA85paH5Lu25ZCNPgpldmlkZW5jZTogPOa1i+ivleaIlumhtemdouivgeaNrj4KaXNzdWVzOiA85rKh5pyJ5YiZ5YaZIG5vbmU+Cm5leHRfb3duZXI6IGNvb3JkaW5hdG9yCmBgYAo=
+# ZCode Handoff: Federation Communication Lite
+
+版本：`v1.0`
+用途：在独立沙盒中继续调试一个轻量、跨平台的 Agent 通讯 Skill。
+
+## 包内文件
+
+- `FEDERATION_COMMUNICATION_LITE_SKILL_V1.md`
+  - 正式 Skill 单文件
+  - 原生任务通讯优先
+  - 公共 Markdown 作为跨平台兜底
+  - 最小状态消息、隐私边界和停止重复敲门规则
+- `federation-communication-lite-logo.html`
+  - Canvas Logo 样例
+  - 可在浏览器中预览
+  - 页面内的 `Download PNG` 按钮可导出 Logo
+- `federation-communication-lite-sample.html`
+  - GitHub 风格介绍页样例
+  - 已采用办公灰背景、灰白面板、墨黑边界、绿色主路径和蓝色备用路径
+
+## 设计逻辑
+
+- 绿色路径：平台原生直连，是默认通信方式。
+- 蓝色路径：共享 Markdown 公共板，是无法直连时的人工兜底。
+- 中央节点：协调汇合点，不代表所有 Agent 永久在线。
+- 外框：权限、任务范围和隐私边界。
+
+## ZCode 使用规则
+
+1. 先读取 `FEDERATION_COMMUNICATION_LITE_SKILL_V1.md`。
+2. 只把它作为通信协议使用，不自动创建常驻进程、心跳或轮询。
+3. 有原生对话通信时，优先使用原生通信，不重复写公共板。
+4. 没有原生通信时，使用用户指定的公共 Markdown 文件人工交接。
+5. ACK 只表示收到，不表示完成；RESULT 必须附证据和风险。
+6. 对未响应会话只做一次边界提醒，然后报告无响应，不持续敲门。
+7. 不修改业务代码，不上传外部平台，不执行账号操作，除非用户另行授权。
+
+## 安全边界
+
+本包不包含也不需要：
+
+- GitHub 用户名、密码、登录 Cookie 或浏览器配置；
+- 任何 API Key、Secret、Bearer Token 或完整授权值；
+- 抖音、小红书或其他网站的登录状态；
+- 完整浏览记录、私人收藏内容或完整请求 payload；
+- 本机凭据和系统设置。
+
+如果 ZCode 要求上述内容才能工作，应停止并向用户报告，不要索取或复制。
+
+## 调试目标
+
+- 检查 Skill 是否能在沙盒中被正确识别和触发。
+- 检查 Markdown 公共板消息是否能被正确追加和读取。
+- 检查 Logo 页面 Canvas 是否正常显示并能导出 PNG。
+- 检查介绍页在桌面和移动宽度下是否保持清晰，不出现文字溢出。
+
+## 预期回报格式
+
+```text
+status: ACK | QUESTION | BLOCKED | RESULT
+files_checked: <文件名>
+evidence: <测试或页面证据>
+issues: <没有则写 none>
+next_owner: coordinator
+```
