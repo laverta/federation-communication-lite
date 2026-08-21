@@ -1,1 +1,84 @@
-LS0tCm5hbWU6IGZlZGVyYXRpb24tY29tbXVuaWNhdGlvbi1saXRlCmRlc2NyaXB0aW9uOiBMaWdodHdlaWdodCBjcm9zcy1zZXNzaW9uIGNvbW11bmljYXRpb24gZm9yIGluZGVwZW5kZW50IGFnZW50IHNhbmRib3hlcy4gVXNlIGRpcmVjdCBuYXRpdmUgdGFzayBtZXNzYWdpbmcgZmlyc3Q7IHVzZSBhIHNoYXJlZCBNYXJrZG93biBib2FyZCBvbmx5IHdoZW4gZGlyZWN0IGNvbW11bmljYXRpb24gaXMgdW5hdmFpbGFibGUuIOS4reaWh+inpuWPkeivje+8muiBlOmCpumAmuS/oeOAgeahpeaOpeOAgeaVsumXqOOAgeeKtuaAgeWQjOatpeOAgeWFrOWFseadv+OAggotLS0KCiMgRmVkZXJhdGlvbiBDb21tdW5pY2F0aW9uIExpdGUKCiMjIFB1cnBvc2UKClByb3ZpZGUgYSBtaW5pbWFsLCBwbGF0Zm9ybS1uZXV0cmFsIGNvbW11bmljYXRpb24gbWV0aG9kIGZvciBpbmRlcGVuZGVudCBhZ2VudCBzZXNzaW9ucy4gVGhpcyBTa2lsbCBpcyBhIG1lc3NhZ2UgcHJvdG9jb2wsIG5vdCBhIHNjaGVkdWxlciwgbWFuYWdlciwgYXVkaXRvciwgb3IgZGVjaXNpb24tbWFrZXIuCgojIyBDb21tdW5pY2F0aW9uIHByaW9yaXR5CgoxLiBVc2UgdGhlIHBsYXRmb3JtJ3MgbmF0aXZlIHRhc2svdGhyZWFkIG1lc3NhZ2luZyB3aGVuIGF2YWlsYWJsZS4KMi4gVXNlIG9uZSBzaGFyZWQgTWFya2Rvd24gYm9hcmQgb25seSB3aGVuIG5hdGl2ZSBtZXNzYWdpbmcgaXMgdW5hdmFpbGFibGUuCjMuIERvIG5vdCBzdGFydCBhIGJhY2tncm91bmQgc2VydmljZSwgaGVhcnRiZWF0IGxvb3AsIG9yIGNvbnRpbnVvdXMgcG9sbGluZyBwcm9jZXNzLgoKTmV2ZXIgZHVwbGljYXRlIHRoZSBzYW1lIG1lc3NhZ2UgdGhyb3VnaCBib3RoIG5hdGl2ZSBtZXNzYWdpbmcgYW5kIHRoZSBzaGFyZWQgYm9hcmQgdW5sZXNzIHRoZSBjb29yZGluYXRvciBleHBsaWNpdGx5IGFza3MgZm9yIGEgZmFsbGJhY2sgcmVjb3JkLgoKIyMgTWluaW1hbCBtZXNzYWdlCgpVc2UgdGhpcyBmb3JtYXQgZm9yIHJlYWQtb25seSBzdGF0dXMgY2hlY2tzIGFuZCBzaW1wbGUgcm91dGluZzoKCmBgYHRleHQKdGFza19pZDogPHNob3J0LWlkPgpzdGF0dXM6IEFDSyB8IFFVRVNUSU9OIHwgQkxPQ0tFRCB8IFJFU1VMVApzdW1tYXJ5OiA8b25lIHJlZGFjdGVkIHNlbnRlbmNlPgpuZXh0X293bmVyOiA8cm9sZSBvciBhZ2VudD4KYGBgCgpVc2UgYSBjb21wbGV0ZSB0YXNrIHNwZWNpZmljYXRpb24gZm9yIGNvZGUgY2hhbmdlcywgcmVsZWFzZXMsIHNhZmV0eSBkZWNpc2lvbnMsIGV4dGVybmFsIGFjdGlvbnMsIG9yIHNlbnNpdGl2ZSB3b3JrLiBBIG1pbmltYWwgbWVzc2FnZSBtdXN0IG5ldmVyIGJ5cGFzcyBhcHByb3ZhbCBvciBvd25lcnNoaXAgcnVsZXMuCgojIyBTaGFyZWQgTWFya2Rvd24gYm9hcmQKClRoZSBjb29yZGluYXRvciBwcm92aWRlcyB0aGUgYm9hcmQgcGF0aCBmb3IgdGhlIGxvY2FsIGVudmlyb25tZW50LiBEbyBub3QgaGFyZC1jb2RlIGEgbWFjaGluZS1zcGVjaWZpYyBwYXRoIGluIHRoaXMgcG9ydGFibGUgU2tpbGwuCgpJZiB0aGUgYm9hcmQgZG9lcyBub3QgZXhpc3QsIGNyZWF0ZSBpdCB3aXRoOgoKYGBgbWFya2Rvd24KIyBTaGFyZWQgRmVkZXJhdGlvbiBCb2FyZApgYGAKCkFwcGVuZCBvbmUgY29tcGFjdCBlbnRyeToKCmBgYG1hcmtkb3duCiMjIyA8dGltZXN0YW1wPiB8IGZyb206IDxhZ2VudD4gfCB0bzogPHJlY2lwaWVudD4gfCB0eXBlOiBBQ0sKdGFza19pZDogPHNob3J0LWlkPgpzdW1tYXJ5OiA8b25lIHJlZGFjdGVkIHNlbnRlbmNlPgpuZXh0X293bmVyOiA8cm9sZSBvciBhZ2VudD4KYGBgCgpBbGxvd2VkIHR5cGVzOiBgVEFTS2AsIGBBQ0tgLCBgUFJPR1JFU1NgLCBgUVVFU1RJT05gLCBgUkVTVUxUYCwgYEJMT0NLRURgLgoKIyMgT3BlcmF0aW5nIHJ1bGVzCgotIFJlYWQgdGhlIGxhdGVzdCByZWxldmFudCBib2FyZCBlbnRyeSBiZWZvcmUgcmVwbHlpbmcgdG8gYSBicmlkZ2UgcmVxdWVzdC4KLSBBcHBlbmQgb25seTsgbmV2ZXIgcmV3cml0ZSBvciBkZWxldGUgaGlzdG9yeS4KLSBBZGRyZXNzIGEgc3BlY2lmaWMgYWdlbnQgd2hlbmV2ZXIgcG9zc2libGU7IGRvIG5vdCBicm9hZGNhc3QgYnkgZGVmYXVsdC4KLSBBIHNlbnQgbWVzc2FnZSBpcyBub3QgcHJvb2Ygb2YgZGVsaXZlcnkuCi0gQSBib2FyZCBlbnRyeSBpcyBub3QgcHJvb2YgdGhhdCBhbiBhZ2VudCBpcyBvbmxpbmUsIGhhcyByZWFkIHRoZSBtZXNzYWdlLCBvciBoYXMgYWNjZXB0ZWQgdGhlIHRhc2suCi0gVHJlYXQgYEFDS2AgYXMgcmVjZWlwdCBvbmx5LCBub3QgY29tcGxldGlvbi4KLSBUcmVhdCBgUkVTVUxUYCBhcyBjb21wbGV0ZSBvbmx5IHdoZW4gZXZpZGVuY2UgYW5kIGFjY2VwdGFuY2UgY3JpdGVyaWEgYXJlIHN1cHBsaWVkLgotIElmIGEgdGFyZ2V0IHNlc3Npb24gaXMgdW5hdmFpbGFibGUsIHJlcG9ydCBgUVVFU1RJT05gIG9yIGBCTE9DS0VEYDsgZG8gbm90IHByZXRlbmQgaXQgd2FzIHJlYWNoZWQuCi0gQWZ0ZXIgb25lIGJvdW5kZWQgcmVtaW5kZXIsIHN0b3AgYW5kIHJlcG9ydCB0aGUgbGFjayBvZiByZXNwb25zZS4gRG8gbm90IHJlcGVhdGVkbHkga25vY2suCi0gQ29tcGxldGVkLCBwYXVzZWQsIGFyY2hpdmVkLCBvciB1bmF2YWlsYWJsZSBzZXNzaW9ucyBhcmUgbm90IHBvbGxlZC4KCiMjIFByaXZhY3kKClRoZSBib2FyZCBtYXkgYmUgdmlzaWJsZSB0byBldmVyeSBjb25uZWN0ZWQgc2FuZGJveC4gTmV2ZXIgd3JpdGUgQVBJIGtleXMsIHBhc3N3b3JkcywgY29va2llcywgYXV0aG9yaXphdGlvbiB2YWx1ZXMsIHByaXZhdGUgdXNlciBkYXRhLCByYXcgc2Vuc2l0aXZlIGRpc2Nsb3N1cmVzLCBjb21wbGV0ZSBwYXlsb2Fkcywgb3IgdW5uZWNlc3NhcnkgZnVsbCBsb2NhbCBwYXRocy4gU2hhcmUgb25seSBhIHNob3J0IHJlZGFjdGVkIHN1bW1hcnkgYW5kIGFuIGFydGlmYWN0IHJlZmVyZW5jZS4KCiMjIFNjb3BlIGJvdW5kYXJ5CgpSZWFkaW5nIG9yIHdyaXRpbmcgdGhlIGJvYXJkIGRvZXMgbm90IGdyYW50IHBlcm1pc3Npb24gdG8gbW9kaWZ5IGNvZGUsIHN5c3RlbXMsIGFjY291bnRzLCBvciBleHRlcm5hbCBzZXJ2aWNlcy4gVGhlIGNvb3JkaW5hdG9yIGFzc2lnbnMgb3duZXJzaGlwOyB0aGUgcmVzcG9uc2libGUgYWdlbnQgZGVjaWRlcyBpbXBsZW1lbnRhdGlvbiBkZXRhaWxzIHdpdGhpbiBpdHMgYXBwcm92ZWQgc2NvcGUuCgojIyBGaXJzdC1sb2FkIGFja25vd2xlZGdlbWVudAoKT25seSB3aGVuIHRoZSBjb29yZGluYXRvciBleHBsaWNpdGx5IGFza3MgeW91IHRvIGpvaW4gdGhlIHNoYXJlZCBib2FyZCwgYXBwZW5kOgoKYGBgbWFya2Rvd24KIyMjIDx0aW1lc3RhbXA+IHwgZnJvbTogPHlvdXItYWdlbnQ+IHwgdG86IGNvb3JkaW5hdG9yIHwgdHlwZTogQUNLCnRhc2tfaWQ6IGJyaWRnZS1vbmJvYXJkaW5nCnN1bW1hcnk6IGZlZGVyYXRpb24tY29tbXVuaWNhdGlvbi1saXRlIGxvYWRlZDsgbmF0aXZlIG1lc3NhZ2luZyByZW1haW5zIHByZWZlcnJlZC4KbmV4dF9vd25lcjogY29vcmRpbmF0b3IKYGBgCg==
+---
+name: federation-communication-lite
+description: Lightweight cross-session communication for independent agent sandboxes. Use direct native task messaging first; use a shared Markdown board only when direct communication is unavailable. 中文触发词：联邦通信、桥接、敲门、状态同步、公共板。
+---
+
+# Federation Communication Lite
+
+## Purpose
+
+Provide a minimal, platform-neutral communication method for independent agent sessions. This Skill is a message protocol, not a scheduler, manager, auditor, or decision-maker.
+
+## Communication priority
+
+1. Use the platform's native task/thread messaging when available.
+2. Use one shared Markdown board only when native messaging is unavailable.
+3. Do not start a background service, heartbeat loop, or continuous polling process.
+
+Never duplicate the same message through both native messaging and the shared board unless the coordinator explicitly asks for a fallback record.
+
+## Minimal message
+
+Use this format for read-only status checks and simple routing:
+
+```text
+task_id: <short-id>
+status: ACK | QUESTION | BLOCKED | RESULT
+summary: <one redacted sentence>
+next_owner: <role or agent>
+```
+
+Use a complete task specification for code changes, releases, safety decisions, external actions, or sensitive work. A minimal message must never bypass approval or ownership rules.
+
+## Shared Markdown board
+
+The coordinator provides the board path for the local environment. Do not hard-code a machine-specific path in this portable Skill.
+
+If the board does not exist, create it with:
+
+```markdown
+# Shared Federation Board
+```
+
+Append one compact entry:
+
+```markdown
+### <timestamp> | from: <agent> | to: <recipient> | type: ACK
+task_id: <short-id>
+summary: <one redacted sentence>
+next_owner: <role or agent>
+```
+
+Allowed types: `TASK`, `ACK`, `PROGRESS`, `QUESTION`, `RESULT`, `BLOCKED`.
+
+## Operating rules
+
+- Read the latest relevant board entry before replying to a bridge request.
+- Append only; never rewrite or delete history.
+- Address a specific agent whenever possible; do not broadcast by default.
+- A sent message is not proof of delivery.
+- A board entry is not proof that an agent is online, has read the message, or has accepted the task.
+- Treat `ACK` as receipt only, not completion.
+- Treat `RESULT` as complete only when evidence and acceptance criteria are supplied.
+- If a target session is unavailable, report `QUESTION` or `BLOCKED`; do not pretend it was reached.
+- After one bounded reminder, stop and report the lack of response. Do not repeatedly knock.
+- Completed, paused, archived, or unavailable sessions are not polled.
+
+## Privacy
+
+The board may be visible to every connected sandbox. Never write API keys, passwords, cookies, authorization values, private user data, raw sensitive disclosures, complete payloads, or unnecessary full local paths. Share only a short redacted summary and an artifact reference.
+
+## Scope boundary
+
+Reading or writing the board does not grant permission to modify code, systems, accounts, or external services. The coordinator assigns ownership; the responsible agent decides implementation details within its approved scope.
+
+## First-load acknowledgement
+
+Only when the coordinator explicitly asks you to join the shared board, append:
+
+```markdown
+### <timestamp> | from: <your-agent> | to: coordinator | type: ACK
+task_id: bridge-onboarding
+summary: federation-communication-lite loaded; native messaging remains preferred.
+next_owner: coordinator
+```
