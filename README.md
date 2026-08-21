@@ -1,1 +1,67 @@
-IyBGZWRlcmF0aW9uIENvbW11bmljYXRpb24gTGl0ZQoKIVtza2lsbF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9za2lsbC12MS0xYzY3OTUpICFbc3RhdHVzXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3N0YXR1cy1BQ1RJVkUtMTc2YjNhKSAhW3Njb3BlXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL3Njb3BlLXBvcnRhYmxlJTIwJUMyJUI3JTIwcmVkYWN0ZWQtNTk2MzZlKQoKPiAjIyMgQ29tbXVuaWNhdGUgbGVzcy4gQ29vcmRpbmF0ZSBiZXR0ZXIuCgpBIHNtYWxsLCBwbGF0Zm9ybS1uZXV0cmFsIHByb3RvY29sIGZvciBpbmRlcGVuZGVudCBhZ2VudCBzZXNzaW9ucy4gTmF0aXZlIHRocmVhZCBtZXNzYWdlcyBmaXJzdC4gQSBzaGFyZWQgTWFya2Rvd24gYm9hcmQgb25seSB3aGVuIGEgZGlyZWN0IGNvbm5lY3Rpb24gZG9lcyBub3QgZXhpc3QuCgoqKmBOYXRpdmUgbWVzc2FnaW5nYCA+IGBTaGFyZWQgTWFya2Rvd24gZmFsbGJhY2tgID4gYE9uLWRlbWFuZCBicmlkZ2VgKioKCiMjIENvbW11bmljYXRpb24gcHJpb3JpdHkKCnwgIyB8IFJvdXRlIHwgV2hlbiBpdCBhcHBsaWVzIHwKfC0tLXwtLS18LS0tfAp8IDEgfCAqKk5hdGl2ZSB0YXNrIG1lc3NhZ2UqKiDDouKCrOKAnSBzZW5kIC8gcmVhZCAvIHdhaXQgLyBhY2tub3dsZWRnZSB8IEFsd2F5cywgd2hlbiB0aGUgcGxhdGZvcm0gc3VwcG9ydHMgaXQgfAp8IDIgfCAqKlNoYXJlZCBNYXJrZG93biBib2FyZCoqIMOi4oKs4oCdIHJlZGFjdGVkLCBhcHBlbmQtb25seSwgbWFudWFsIGZhbGxiYWNrIHwgT25seSB3aGVuIGRpcmVjdCBtZXNzYWdpbmcgaXMgYWJzZW50IHwKfCAzIHwgKipMZWdhY3kgLyBvbi1kZW1hbmQgYnJpZGdlKiogw6LigqzigJ0gYXV0b21hdGVkIGJ1cyBhbmQgc2VydmljZSBicmlkZ2UgfCBTdGF5cyAqKm9mZioqIHVubGVzcyBleHBsaWNpdGx5IGFwcHJvdmVkIHwKCj4gQUNLIGNvbmZpcm1zIHJlY2VpcHQsIG5vdCBjb21wbGV0aW9uLgoKIyMgQnVpbHQgZm9yIGJvdW5kZWQgd29yawoKQ29tbXVuaWNhdGlvbiBpcyBhIGRlbGl2ZXJ5IGxheWVyLCBub3QgdGhlIG1hbmFnZW1lbnQgc3lzdGVtLgoKKiowMSDDouKCrOKAnSBTaW5nbGUgb3duZXIuKioKRXZlcnkgY29uc3RydWN0aW9uIHRhc2sgaGFzIG9uZSBhY2NvdW50YWJsZSBvd25lciwgYSBib3VuZGVkIHdyaXRlIHNjb3BlLCBhbmQgYSB2ZXJpZmljYXRpb24gcm91dGUuCgoqKjAyIMOi4oKs4oCdIFNtYWxsIGNvbnRleHQuKioKU2VuZCBvbmUgcmVkYWN0ZWQgc3VtbWFyeSBhbmQgYXJ0aWZhY3QgcmVmZXJlbmNlcyBpbnN0ZWFkIG9mIGNvcHlpbmcgZW50aXJlIGNvbnZlcnNhdGlvbnMgYmV0d2VlbiBzZXNzaW9ucy4KCioqMDMgw6LigqzigJ0gTm8gaWRsZSBsb29wcy4qKgpPbmUgYm91bmRlZCByZW1pbmRlciBpcyBlbm91Z2guIENvbXBsZXRlZCwgcGF1c2VkLCBhcmNoaXZlZCwgYW5kIHVuYXZhaWxhYmxlIHNlc3Npb25zIGFyZSBub3QgcG9sbGVkLgoKIyMgTWluaW1hbCBtZXNzYWdlIGNvbnRyYWN0CgohW0FDS10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9BQ0stcmVjZWl2ZWQlMkMlMjBub3QlMjBmaW5pc2hlZC0xNzZiM2EpICFbUVVFU1RJT05dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUVVFU1RJT04tYXNrJTIwYmVmb3JlJTIwYWN0aW5nLTlhNjcwMCkgIVtCTE9DS0VEXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL0JMT0NLRUQtcmVwb3J0JTJDJTIwbmV2ZXIlMjBpbnZlbnQtY2YyMjJlKSAhW1JFU1VMVF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9SRVNVTFQtZXZpZGVuY2UlMjByZXF1aXJlZC0xYzY3OTUpCgpgYGB0ZXh0CnRhc2tfaWQ6IGRvY3MtMDE0CnN0YXR1czogQUNLCnN1bW1hcnk6IFJlY2VpdmVkIHRoZSBjb21tdW5pY2F0aW9uIHBvbGljeSB1cGRhdGUuCm5leHRfb3duZXI6IGNvb3JkaW5hdG9yCmBgYAoKLSBBQ0sgbWVhbnMgcmVjZWl2ZWQsIG5vdCBmaW5pc2hlZC4KLSBSRVNVTFQgbmVlZHMgZXZpZGVuY2UgYW5kIGFjY2VwdGFuY2UgY3JpdGVyaWEuCi0gVW5hdmFpbGFibGUgc2Vzc2lvbnMgYXJlIHJlcG9ydGVkLCBuZXZlciBpbnZlbnRlZC4KLSBEbyBub3QgZHVwbGljYXRlIHRoZSBzYW1lIG1lc3NhZ2UgdGhyb3VnaCBib3RoIG5hdGl2ZSBtZXNzYWdpbmcgYW5kIHRoZSBzaGFyZWQgYm9hcmQuCgojIyBJbnN0YWxsCgoxLiBDb3B5IGBTS0lMTC5tZGAgaW50byB5b3VyIGFzc2lzdGFudCdzIHNraWxscyBkaXJlY3RvcnkuCjIuIFRoYXQncyBpdC4gVGhlIHByb3RvY29sIGlzIGRlbGliZXJhdGVseSBzaG9ydCDDouKCrOKAnSByZWFkIGl0IG9uY2UuCjMuIE9wdGlvbmFsOiBvcGVuIGBzYW1wbGUuaHRtbGAgZm9yIGEgdmlzdWFsIG92ZXJ2aWV3IG9mIHRoZSBkZXNpZ24uCgojIyBGaWxlcwoKfCBGaWxlIHwgUHVycG9zZSB8CnwtLS18LS0tfAp8IGBTS0lMTC5tZGAgfCBUaGUgc2tpbGwgaXRzZWxmIMOi4oKs4oCdIHByb3RvY29sLCBvcGVyYXRpbmcgcnVsZXMsIHByaXZhY3kgfAp8IGBIQU5ET0ZGLm1kYCB8IEludGVncmF0aW9uIG5vdGVzIGZvciBhZ2VudCBoYXJuZXNzZXMgfAp8IGBsb2dvLmh0bWxgIHwgQ2FudmFzIGxvZ28gZ2VuZXJhdG9yIMOi4oKs4oCdIG9wZW4gaW4gYSBicm93c2VyLCBkb3dubG9hZCBhcyBQTkcgfAp8IGBzYW1wbGUuaHRtbGAgfCBWaXN1YWwgb25lLXBhZ2Ugb3ZlcnZpZXcgb2YgdGhlIHdob2xlIGRlc2lnbiB8CgojIyBQcml2YWN5CgpUaGUgc2hhcmVkIGJvYXJkIG1heSBiZSB2aXNpYmxlIHRvIGV2ZXJ5IGNvbm5lY3RlZCBzYW5kYm94LiBOZXZlciB3cml0ZSBBUEkga2V5cywgcGFzc3dvcmRzLCBjb29raWVzLCBhdXRob3JpemF0aW9uIHZhbHVlcywgcHJpdmF0ZSB1c2VyIGRhdGEsIHJhdyBzZW5zaXRpdmUgZGlzY2xvc3VyZXMsIG9yIHVubmVjZXNzYXJ5IGZ1bGwgbG9jYWwgcGF0aHMuIFNoYXJlIG9ubHkgYSBzaG9ydCByZWRhY3RlZCBzdW1tYXJ5IGFuZCBhbiBhcnRpZmFjdCByZWZlcmVuY2UuIEEgc2VudCBtZXNzYWdlIGlzIG5vdCBwcm9vZiBvZiBkZWxpdmVyeS4=
+# Federation Communication Lite
+
+![skill](https://img.shields.io/badge/skill-v1-1c6795) ![status](https://img.shields.io/badge/status-ACTIVE-176b3a) ![scope](https://img.shields.io/badge/scope-portable%20%C2%B7%20redacted-59636e)
+
+> ### Communicate less. Coordinate better.
+
+A small, platform-neutral protocol for independent agent sessions. Native thread messages first. A shared Markdown board only when a direct connection does not exist.
+
+**`Native messaging` > `Shared Markdown fallback` > `On-demand bridge`**
+
+## Communication priority
+
+| # | Route | When it applies |
+|---|---|---|
+| 1 | **Native task message** â€” send / read / wait / acknowledge | Always, when the platform supports it |
+| 2 | **Shared Markdown board** â€” redacted, append-only, manual fallback | Only when direct messaging is absent |
+| 3 | **Legacy / on-demand bridge** â€” automated bus and service bridge | Stays **off** unless explicitly approved |
+
+> ACK confirms receipt, not completion.
+
+## Built for bounded work
+
+Communication is a delivery layer, not the management system.
+
+**01 â€” Single owner.**
+Every construction task has one accountable owner, a bounded write scope, and a verification route.
+
+**02 â€” Small context.**
+Send one redacted summary and artifact references instead of copying entire conversations between sessions.
+
+**03 â€” No idle loops.**
+One bounded reminder is enough. Completed, paused, archived, and unavailable sessions are not polled.
+
+## Minimal message contract
+
+![ACK](https://img.shields.io/badge/ACK-received%2C%20not%20finished-176b3a) ![QUESTION](https://img.shields.io/badge/QUESTION-ask%20before%20acting-9a6700) ![BLOCKED](https://img.shields.io/badge/BLOCKED-report%2C%20never%20invent-cf222e) ![RESULT](https://img.shields.io/badge/RESULT-evidence%20required-1c6795)
+
+```text
+task_id: docs-014
+status: ACK
+summary: Received the communication policy update.
+next_owner: coordinator
+```
+
+- ACK means received, not finished.
+- RESULT needs evidence and acceptance criteria.
+- Unavailable sessions are reported, never invented.
+- Do not duplicate the same message through both native messaging and the shared board.
+
+## Install
+
+1. Copy `SKILL.md` into your assistant's skills directory.
+2. That's it. The protocol is deliberately short â€” read it once.
+3. Optional: open `sample.html` for a visual overview of the design.
+
+## Files
+
+| File | Purpose |
+|---|---|
+| `SKILL.md` | The skill itself â€” protocol, operating rules, privacy |
+| `HANDOFF.md` | Integration notes for agent harnesses |
+| `logo.html` | Canvas logo generator â€” open in a browser, download as PNG |
+| `sample.html` | Visual one-page overview of the whole design |
+
+## Privacy
+
+The shared board may be visible to every connected sandbox. Never write API keys, passwords, cookies, authorization values, private user data, raw sensitive disclosures, or unnecessary full local paths. Share only a short redacted summary and an artifact reference. A sent message is not proof of delivery.
