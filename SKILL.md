@@ -1,6 +1,6 @@
 ---
 name: federation-communication-lite
-description: Lightweight cross-session communication for independent agent sandboxes. Use direct native task messaging first; use a shared Markdown board only when direct communication is unavailable. 中文触发词：联邦通信、桥接、敲门、状态同步、公共板。
+description: Lightweight cross-session communication for independent agent sandboxes. Use direct native task messaging first; use a shared Markdown board only when direct communication is unavailable. Every message and artifact carries a provenance tag identifying the model that produced it. 中文触发词：联邦通信、桥接、敲门、状态同步、公共板。
 ---
 
 # Federation Communication Lite
@@ -17,6 +17,15 @@ Provide a minimal, platform-neutral communication method for independent agent s
 
 Never duplicate the same message through both native messaging and the shared board unless the coordinator explicitly asks for a fallback record.
 
+## Model provenance (who wrote this)
+
+A session and its model are two different things: the conversation can switch models mid-stream, and the new model cannot detect the switch — it will treat everything in context as its own words. Therefore identity is declared, not inferred.
+
+- Every substantive output (analysis, plan, artifact, commit) ends with a provenance tag: `[by: <model-name>]`.
+- In message and board formats, fill the `by:` field with the model name, not only the session/agent name.
+- When a session reports work done before a model switch, it tags the current model and marks inherited work as `provenance: inherited`.
+- The coordinator (the human) holds final authority over attribution disputes.
+
 ## Minimal message
 
 Use this format for read-only status checks and simple routing:
@@ -26,6 +35,7 @@ task_id: <short-id>
 status: ACK | QUESTION | BLOCKED | RESULT
 summary: <one redacted sentence>
 next_owner: <role or agent>
+by: <model-name>
 ```
 
 Use a complete task specification for code changes, releases, safety decisions, external actions, or sensitive work. A minimal message must never bypass approval or ownership rules.
@@ -43,7 +53,7 @@ If the board does not exist, create it with:
 Append one compact entry:
 
 ```markdown
-### <timestamp> | from: <agent> | to: <recipient> | type: ACK
+### <timestamp> | from: <agent> | by: <model-name> | to: <recipient> | type: ACK
 task_id: <short-id>
 summary: <one redacted sentence>
 next_owner: <role or agent>
@@ -56,6 +66,7 @@ Allowed types: `TASK`, `ACK`, `PROGRESS`, `QUESTION`, `RESULT`, `BLOCKED`.
 - Read the latest relevant board entry before replying to a bridge request.
 - Append only; never rewrite or delete history.
 - Address a specific agent whenever possible; do not broadcast by default.
+- Declare your model identity in outputs; never claim authorship of inherited context you cannot verify.
 - A sent message is not proof of delivery.
 - A board entry is not proof that an agent is online, has read the message, or has accepted the task.
 - Treat `ACK` as receipt only, not completion.
@@ -77,7 +88,7 @@ Reading or writing the board does not grant permission to modify code, systems, 
 Only when the coordinator explicitly asks you to join the shared board, append:
 
 ```markdown
-### <timestamp> | from: <your-agent> | to: coordinator | type: ACK
+### <timestamp> | from: <your-agent> | by: <model-name> | to: coordinator | type: ACK
 task_id: bridge-onboarding
 summary: federation-communication-lite loaded; native messaging remains preferred.
 next_owner: coordinator
