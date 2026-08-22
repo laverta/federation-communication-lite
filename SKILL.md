@@ -28,7 +28,7 @@ A session and its model are two different things: the conversation can switch mo
 
 ### Verification (three layers)
 
-y: is a claim, not a fact. A model can claim any identity - a Flash can sign as a Pro. Verify in three layers:
+`by:` is a claim, not a fact. A model can claim any identity - a Flash can sign as a Pro. Verify in three layers:
 
 1. **Claim layer**: the y: tag itself - what the model declares.
 2. **Execution layer**: claimed identity should be consistent with observed behavior (a model claiming Pro should show Pro-level reasoning depth). Soft check, human-judged.
