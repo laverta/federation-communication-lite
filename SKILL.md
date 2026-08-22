@@ -21,7 +21,7 @@ Never duplicate the same message through both native messaging and the shared bo
 
 A session and its model are two different things: the conversation can switch models mid-stream, and the new model cannot detect the switch — it will treat everything in context as its own words. Therefore identity is declared, not inferred.
 
-- Every substantive output (analysis, plan, artifact, commit) ends with a provenance tag: `[by: <model-name>]`.
+- In message and board formats, the y: field is **mandatory**. A message or board entry without y: is invalid and may be returned to the sender.
 - In message and board formats, fill the `by:` field with the model name, not only the session/agent name.
 - When a session reports work done before a model switch, it tags the current model and marks inherited work as `provenance: inherited`.
 - The coordinator (the human) holds final authority over attribution disputes.
