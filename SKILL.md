@@ -26,6 +26,20 @@ A session and its model are two different things: the conversation can switch mo
 - When a session reports work done before a model switch, it tags the current model and marks inherited work as `provenance: inherited`.
 - The coordinator (the human) holds final authority over attribution disputes.
 
+### Verification (three layers)
+
+y: is a claim, not a fact. A model can claim any identity - a Flash can sign as a Pro. Verify in three layers:
+
+1. **Claim layer**: the y: tag itself - what the model declares.
+2. **Execution layer**: claimed identity should be consistent with observed behavior (a model claiming Pro should show Pro-level reasoning depth). Soft check, human-judged.
+3. **Coordinator layer**: only the coordinator knows which model is actually running; the coordinator may spot-check key entries against reality.
+
+Never treat y: as verified truth on its own.
+
+## Artifacts
+
+Provenance tags belong on the work itself, not just the envelope. Any content artifact (edited file, written document, generated script) carries [by: <model-name>] inside it, and its commit message includes the model name. An artifact without a tag is treated as unverified.
+
 ## Minimal message
 
 Use this format for read-only status checks and simple routing:
