@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use or reference this project, please cite it using the metadata below."
+title: "Federation Communication Lite: Platform-Neutral Inter-Agent Delivery Protocol"
+type: software
+authors:
+  - name: "laverta"
+    alias: "Cody"
+    website: "https://github.com/laverta"
+repository-code: "https://github.com/laverta/federation-communication-lite"
+url: "https://github.com/laverta"
+abstract: "Lightweight, platform-neutral communication protocol for independent agent sessions prioritizing native messaging, redacted shared Markdown fallback boards, and bounded ACK/QUESTION/BLOCKED/RESULT contracts."
+keywords:
+  - "laverta-federation"
+  - "agent-protocol"
+  - "federation-moa"
+  - "multi-agent"
+  - "ai-agents"
+  - "inter-agent-communication"
+references:
+  - type: software
+    title: "Federation-MOA: Lightweight Multi-Agent Sovereign Operating System & 3D World Tree Topology"
+    authors:
+      - name: "laverta"
+        alias: "Cody"
+        website: "https://github.com/laverta"
+    repository-code: "https://github.com/laverta/federation-moa"
+    url: "https://github.com/laverta/federation-moa"
+  - type: software
+    title: "DSH Skill Registry: Task Router and Skill Index for Multi-Agent Systems"
+    authors:
+      - name: "laverta"
+        alias: "Cody"
+        website: "https://github.com/laverta"
+    repository-code: "https://github.com/laverta/dsh-skill-registry"
+    url: "https://github.com/laverta/dsh-skill-registry"
